@@ -3,6 +3,8 @@
 ## 📌 Overview
 This report presents an analysis of furniture sales and revenue using key performance indicators (KPIs) and data visualization techniques. The dashboard provides insights into discount percentages, sales by category, sales vs revenue trends, and inventory turnover.
 
+![Furniture Dashboard](https://github.com/PossessorFav25/Furniture-sales-Revenue-Analysis/blob/main/furniture%20sales%20dashboard.jpg)
+
 ## 📊 Key Metrics
 - *Average Profit Margin*: 30
 - *Total Sales*: 25,610
